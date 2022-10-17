@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://thumbs.gfycat.com/GrippingReflectingBasenji.webp)
+![](https://cdn.dribbble.com/users/664475/screenshots/5411820/media/db3c39bd5d4f34fa73c9d840892e7ae8.gif)
 
 <!--
 **7KIR7/7KIR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
