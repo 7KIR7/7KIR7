@@ -1,5 +1,5 @@
 ### Hi there 👋
-![]( ![gif](https://s1.gifyu.com/images/gife611543deaa4137e.gif))
+![](https://s1.gifyu.com/images/gife611543deaa4137e.gif)
 
 <!--
 **7KIR7/7KIR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
