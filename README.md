@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://cdn.dribbble.com/users/664475/screenshots/5411820/media/db3c39bd5d4f34fa73c9d840892e7ae8.gif)
+![]( ![gif](https://user-images.githubusercontent.com/92317276/196258349-3ac62704-3e18-4dde-8b03-98bbabd8b99d.gif)
+)
 
 <!--
 **7KIR7/7KIR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
