@@ -1,5 +1,4 @@
 ### Hi there 👋
-![]![gif](https://user-images.githubusercontent.com/92317276/196259161-6f85573a-ce4b-49b3-9bbf-972089f88a83.gif)
 
 <!--
 **7KIR7/7KIR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
