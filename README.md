@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/7KIR7)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/7KIR7&count_private=true)](https://git.io/awesome-stats-card)
 <!--
 **7KIR7/7KIR7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
